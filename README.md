@@ -8,16 +8,22 @@
 
 - 👯 I’m looking to collaborate on **Robotics and AI**
 
-- 🤝 I’m looking for help with **AI**
+- 🤝 I’m looking for help with **Neuroscience AI**
 
 - 👨‍💻 All of my projects are available at [https://github.com/space-barry?tab=repositories](https://github.com/space-barry?tab=repositories)
 
-- 📝 I regularly write articles on [creative writing, advance technology, physics, philosophy](creative writing, advance technology, physics, philosophy)
+- 📝 I regularly write articles on [creative writing, advanced technology, physics, philosophy](creative writing, advance technology, physics, philosophy)
 
 - 💬 Ask me about **react, front-end, UX, ML, Robotics**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/aizaz ullah khan niazi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aizaz ullah khan niazi" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/muhammad aizaz ullah khan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="muhammad aizaz ullah khan" height="30" width="40" /></a>
+<a href="https://kaggle.com/aizaz ullah khan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="aizaz ullah khan" height="30" width="40" /></a>
+<a href="https://www.behance.net/muhammad aizaz ullah khan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="muhammad aizaz ullah khan" height="30" width="40" /></a>
+<a href="https://medium.com/@khanmuhammadaizazullah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@khanmuhammadaizazullah" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/aizaz_niazi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="aizaz_niazi" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
