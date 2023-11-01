@@ -1,20 +1,20 @@
 ### Hi there 👋
 <h1 align="center">Hi 👋, I'm Aizaz Khan</h1>
-<h3 align="center">A passionate ML engineer from Pakistan</h3>
+<h3 align="center">On my runway to be MLops </h3>
 
-- 🔭 I’m currently working on **NLP**
+- 🔭 I’m currently working on **FYP**
 
-- 🌱 I’m currently learning **NLP**
+- 🌱 I’m currently learning **PyTorch** and **Enterprise Application Development**
 
-- 👯 I’m looking to collaborate on **Robotics and AI**
+- 👯 I’m looking to collaborate on **Robotics, AI concepts, Probability, UI/UX, drawing and gossiping about night dreams**
 
 - 🤝 I’m looking for help with **Neuroscience AI**
 
-- 👨‍💻 All of my projects are available at [https://github.com/space-barry?tab=repositories](https://github.com/space-barry?tab=repositories)
+- 👨‍💻 All of my projects are available at [https://github.com/space-barry?tab=repositories](https://github.com/space-barry?tab=repositories) and (https://github.com/aizazkhan787)
 
 - 📝 I regularly write articles on [creative writing, advanced technology, physics, philosophy](creative writing, advance technology, physics, philosophy)
 
-- 💬 Ask me about **react, front-end, UX, ML, Robotics**
+- 💬 Ask me about **ML, Deep Learning, Cyber Security, front-end, UX, Robotics**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
